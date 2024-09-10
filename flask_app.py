@@ -6,4 +6,4 @@ if __name__ == '__main__':
 
 @app.route('/')
 def home():
-    return "<p>Mijn Droom om door te groeien als Full-Stack Developer is dichterbij aan het komen!</p>"
+    return "<p>Mijn Droom om door te groeien als Full-Stack Developer is dichterbij aan het komen!!</p>"
